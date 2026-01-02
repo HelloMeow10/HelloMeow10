@@ -1,54 +1,85 @@
-## Hi there 👋
-
-I'm **Ramos**, a passionate programmer, musician, and tech enthusiast from Buenos Aires, Argentina. My personal mission is to craft solutions that blend creativity and technology while pursuing constant growth in the software development world.  
-
----
-
-## 🚀 About Me  
-- 🎓 **Programing Technician** | Student of the Programming Technician career at Técnica 7.  
-- 💻 **Future Software Engineer** | About to start studying Software Engineering at UADE.  
-- 🎵 **Musician** | Piano and singing student at the Julián Aguirre Conservatory, passionate about art and musical expression.  
-- 🛠 **Technical Repairs** | Offering practical and personalized solutions for desktop and laptop equipment.
+## Hi there 👋  
+I'm **Lucas Sebastian Ramos**, a passionate programmer, musician, and tech enthusiast from **Buenos Aires, Argentina** 🇦🇷  
+My personal mission is to build solutions that combine **technology, creativity, and real-world impact**, while continuously growing as a software engineer.
 
 ---
 
-## 🌟 What I'm Working On  
-- Backend projects and scalable systems 💼  
-- Continuous improvement in software design and architectural patterns 🛠  
-- New musical compositions, combining music and technology 🎹💻
+## 🚀 About Me
+
+🎓 **Programming Technician** – Graduated from E.E.S.T. N°7 (2025)  
+💻 **Software Engineering Student** – UADE (currently studying)  
+☁️ **Oracle ONE Alumni** – Backend, Cloud & AI foundations  
+🎵 **Musician** – Piano and singing student at the Julián Aguirre Conservatory  
+🤖 **AI Enthusiast** – Applying Generative AI to real projects and workflows  
+
+I enjoy working with clean architectures, backend systems, cloud infrastructure, and integrating AI into practical solutions.
 
 ---
 
-## 💬 Ask Me About  
-- Backend development 📂  
-- Free software 🐧  
-- Equipment repair and optimization 💻🛠  
-- How to balance programming and music 🎶
+## 🌟 What I'm Working On
+
+- Backend projects and scalable systems  
+- REST APIs following **SOLID principles** and **Clean Architecture**  
+- AI-assisted development and prompt engineering  
+- Cloud & infrastructure projects (OCI, servers, containers)  
+- Exploring how technology and creativity (music + code) can coexist  
 
 ---
 
-## 💻 Programming Languages & Tools  
-- **Languages:** Python 🐍 | JavaScript/TypeScript ⚡ | Java ☕ | C# 🔧 | PHP 🌐  
-- **Technologies:** Docker 🐳 | Linux 🐧 | PostgreSQL 🗄 | Cloudflare ☁ | Git/GitHub 💾
+## 💬 Ask Me About
+
+- Backend development & APIs  
+- Clean Architecture & software design  
+- Generative AI tools (ChatGPT, Gemini, Claude, Grok, DeepSeek)  
+- Cloud, servers, and infrastructure basics  
+- How to balance programming and music 🎶💻  
 
 ---
 
-## 👯 Let's Collaborate!  
-- On challenging backend projects 💻  
-- Initiatives involving free software and scalable technology 🌐  
+## 💻 Programming Languages & Tools
+
+### Languages
+- Python 🐍  
+- Java ☕ (Spring Boot)  
+- JavaScript / TypeScript ⚡  
+- C# 🔧  
+- PHP 🌐  
+
+### Technologies & Tools
+- Spring Boot  
+- Docker 🐳  
+- Linux 🐧  
+- PostgreSQL 🗄  
+- MySQL  
+- Prisma ORM  
+- Git / GitHub 💾  
+- Cloudflare ☁️  
+- Oracle Cloud Infrastructure (OCI – Foundations)
+
+### AI & Productivity
+- Prompt Engineering  
+- AI-assisted development & documentation  
+- Integrating AI into software projects  
 
 ---
 
-## 📫 How to Reach Me  
-- 🐦 **Twitter:** [@lukasmichi1](https://x.com/lukasmichi1)  
-- 📧 **LinkedIn:** [Lucas Sebastian Ramos](https://www.linkedin.com/in/lucas-sebastian-ramos/)  
-- 🎶 **Discord:** @lukasmichi1  
+## 👯 Let's Collaborate!
+
+- Backend or full-stack projects  
+- AI-powered applications  
+- Cloud & infrastructure experiments  
+- Open-source and learning-focused initiatives  
 
 ---
 
-## 😄 Pronouns: He/him
+## 📫 How to Reach Me
+
+🔗 **LinkedIn:** Lucas Sebastian Ramos  
+🐦 **Twitter/X:** @lukasmichi1  
+🎮 **Discord:** @lukasmichi1  
 
 ---
 
-## ⚡ Fun Fact  
-I'm a cat lover 🐈, I love mixing music and code, and I'm always looking for new ways to create and innovate.
+## ⚡ Fun Fact
+
+I'm a cat lover 🐈, I enjoy mixing music and code, and I'm always curious about how technology can transform ideas into real solutions.
