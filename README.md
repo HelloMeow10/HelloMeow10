@@ -11,9 +11,7 @@
     <i>My personal mission is to build solutions that combine technology, creativity, and real-world impact.</i>
   </p>
 
-  <a href="https://twitter.com/lukasmichi1">
-    <img src="https://img.shields.io/twitter/follow/lukasmichi1?style=social" alt="Twitter Follow"/>
-  </a>
+
 </div>
 
 ---
